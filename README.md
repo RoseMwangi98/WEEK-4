@@ -1,6 +1,5 @@
-# {Application Name} ELECTRIC CAR USAGE IN PARIS
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}** ROSE NYAMBURA
+###ELECTRIC CAR USAGE IN PARIS
+#### By ** ROSE NYAMBURA
 ## Description
 In this project we are working for an electric car-sharing service company. You have been tasked to process stations data to understand electric car usage over time by solving for the following research question;
 
